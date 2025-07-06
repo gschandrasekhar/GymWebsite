@@ -24,5 +24,5 @@ A modern, responsive fitness website built using **HTML5**, **CSS3**, **JavaScri
 - **JavaScript** – Interactive elements like hamburger menu and accordions
 - **Animate.css** – Predefined animations for engaging UI
 
-## 📁 Folder Structure
+
 
